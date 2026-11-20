@@ -1,0 +1,11 @@
+*.exe
+*.o
+*.out
+.vscode/
+.vs/
+node_modules/
+__pycache__/
+.env
+.DS_Store
+build/
+dist/
